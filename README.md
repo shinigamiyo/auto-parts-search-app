@@ -44,3 +44,4 @@
 - Frontend: `npm run build` — production-сборка, `npm run lint` — проверка ESLint.
 
 
+Ссылка на демо: https://drive.google.com/drive/folders/1FjJNLwgBPcXN6PTpO7QnqLomyZX6esTH?usp=sharing
